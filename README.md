@@ -20,5 +20,17 @@ SQL_Queries.sql: SQL script containing various queries to analyze and extract in
 Visualizations.twbx: Tableau Workbook containing visualizations created from the analyzed data.
 
 
+Visualizations were created using Tableau to display insights from the cleaned dataset:
+
+Trend of New Electric Vehicle Registrations: Line graph showing the number of registrations over the years.
+
+Electric Vehicle Types by Total Count: Pie chart visualizing the distribution of different electric vehicle types.
+
+City-Level Analysis: Tree map showing the distribution of electric vehicles, average MSRP, electric range, and number of makes across cities.
+
+Top Electric Vehicle Models by AvgMSRP: Horizontal bar chart displaying the top electric vehicle models by average MSRP.
+
+Electric Utility Companies Serving the Most Vehicles: Bar chart showing the top electric utility companies by the number of vehicles served.
+
 
 For any questions or feedback, feel free to reach out via email at kyawphonezaw02@gmail.com
