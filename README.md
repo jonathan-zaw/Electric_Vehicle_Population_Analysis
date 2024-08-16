@@ -11,6 +11,8 @@ Columns: VIN, County, City, State, Postal Code, Model Year, Make, Model, Electri
          Electric Range, Base MSRP, Legislative District, DOL Vehicle ID, Vehicle Location, 
          Electric Utility, 2020 Census Tract
 
+Visualization : https://public.tableau.com/views/EVRegisterationandMarkettrend/EVRegistrationsandMarketAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Files in This Repository
 
 Electric_Vehicle_Population_Data.csv: Raw dataset used for analysis.
