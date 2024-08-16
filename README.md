@@ -22,7 +22,7 @@ Visualizations.twbx: Tableau Workbook containing visualizations created from the
 
 Visualizations were created using Tableau to display insights from the cleaned dataset:
 
-Trend of New Electric Vehicle Registrations: Line graph showing the number of registrations over the years.
+Trend of New Electric Vehicle Registrations: Line graph showing the number of registrations over the car model_years.
 
 Electric Vehicle Types by Total Count: Pie chart visualizing the distribution of different electric vehicle types.
 
